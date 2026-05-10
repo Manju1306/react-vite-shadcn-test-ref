@@ -39,7 +39,7 @@ Follow these steps to get started with the react-vite-ui template:
 2. Navigate to the project directory:
 
    ```bash
-   cd react-vite-ui
+   cd react-vite-shadcn-test-ref
    ```
 
 3. Install the dependencies:
@@ -67,7 +67,9 @@ The project structure follows a standard React application layout:
 
 ```python
 
-react-vite-ui/
+react-vite-shadcn-ref/
+|__ .github
+|__ e2e
 ├── node_modules/          # Project dependencies
 ├── components.json
 ├── eslint.config.js       # ESLint configuration
